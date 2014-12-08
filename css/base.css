@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document - Main Stylesheet - base.css */
+/* Thad Seaver
+Learn About Three Things - Dec 2014 */
+
+
+/* BODY AND CONTAINER
+------------------------------------------- */
+
+body {
+	background-color: #999;
+}
+
+#wrapper {
+	width: 700px;
+	padding: 20px;
+	margin: 0 auto;
+	background-color: #ebebeb;
+}
+
+#wrapper h1 {
+	margin-top: 0;
+	font-size: 1.5em;
+}
+
+/* HEADER
+------------------------------------------- */
+
+
+
+/* CONTENT AREA
+------------------------------------------- */
+input {
+	margin-bottom: 15px;
+}
