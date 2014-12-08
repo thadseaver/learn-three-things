@@ -8,14 +8,15 @@ Learn About Three Things - Dec 2014 */
 ------------------------------------------- */
 
 body {
-	background-color: #999;
+	background-color: #fff4e6;
 }
 
 #wrapper {
 	width: 700px;
 	padding: 20px;
 	margin: 0 auto;
-	background-color: #ebebeb;
+	border: 1px solid #222;
+
 }
 
 #wrapper h1 {
